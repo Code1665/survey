@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endgame Mouse</title>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+    <h1 id="title">The Mouse Survey</h1>
+    <p id="description">Thank you for helping us making the best mouse!</p>
+
+    <form id="survey-form">
+        <div class="form-group">
+
+<hr>
+<fieldset>
+<label id="name-label">Name <input id="name" type="text" name="name" placeholder="Enter your name" required></label>
+
+<label id="email-label">E-Mail<input id="email" type="email" placeholder="Enter Your E-Mail" required></label>
+
+<label id="number-label"> Age (optional)<input id="number" type="number" placeholder="Age" min="1" max="99">
+</fieldset>
+
+<fieldset>
+<label id="product-selection">Which Mouse did you use?
+    <select id="dropdown">
+    <option>(select one)</option>
+    <option>Superlight</option>
+    <option>Viper V2 Pro</option>
+    <option>Starlight</option>
+    <option>Zowie S2</option>
+    <option>others</option>
+</label>
+</select>
+</fieldset>
+
+<hr>
+
+<fieldset>
+    <p>Do you prefer heavy or lightweight mice?</p>
+    <label for="lightweight"><input id="lightweight" value="lightweight" type="radio" name="light-heavy" class="inline" /> Light</label>
+    <label for="heavyweight"><input id="heavyweight" value="heavyweight" type="radio" name="light-heavy" class="inline" /> Heavy</label>
+</fieldset>
+
+<hr>
+
+<fieldset>
+<p>What Grip are you using?</p>
+<label for="palm"><input id="palm" value="palm" type="checkbox" name="palm" class="inline"/> Palm</label>
+<label for="claw"><input id="claw" value="claw" type="checkbox" name="claw" class="inline"/> Claw</label>
+<label for="fingertip"><input id="fingertip" value="fingertip" type="checkbox" name="fingertip" class="inline"/> Fingertip</label>
+
+<label for="dream">
+<textarea id="dream" name="dream" rows="5" cols="40" placeholder="My endgame has to have.."></textarea>
+</label>
+</fieldset>
+
+<input id="submit" type="submit" value="submit"/>
+
+
+
+
+
+        </div>
+</form>
+
+
+
+</body>
+</html>
