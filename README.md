@@ -8,7 +8,7 @@ give us you're preferencials.
 
 
 
-## To navigate 
+# To navigate 
 
 to the project, you can just click on the domain [here](mouse-survey.netlify.app/)
 and add you're preferencials.
@@ -20,4 +20,4 @@ Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin feature
 Submit a pull request
 
-Licensed 
+Licensed via Fantasy Group
