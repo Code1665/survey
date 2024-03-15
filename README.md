@@ -1,4 +1,4 @@
-#Mouse Survey
+# Mouse Survey
 
 We are trying to create the best mouse. To get further ahead,
 we need some infos about your preferencials.
@@ -8,7 +8,7 @@ give us you're preferencials.
 
 
 
-##To navigate 
+## To navigate 
 
 to the project, you can just click on the domain [here](mouse-survey.netlify.app/)
 and add you're preferencials.
