@@ -1,0 +1,5 @@
+# Alle HTML-Dateien werden von den Webentwicklern betreut.
+*.html @web-entwickler
+
+# README.md wird von den Hauptentwicklern betreut.
+README.md @hauptentwickler
