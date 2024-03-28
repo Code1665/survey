@@ -1,5 +1,5 @@
 # Alle HTML-Dateien werden von den Webentwicklern betreut.
-*.html @web-entwickler
+*.html @Code1665
 
 # README.md wird von den Hauptentwicklern betreut.
-README.md @hauptentwickler
+README.md @Code1665
