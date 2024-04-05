@@ -10,7 +10,7 @@ give us you're preferencials.
 
 # To navigate 
 
-to the project, you can just click on the domain [here](mouse-survey.netlify.app/)
+to the project, you can just click on the domain [here](https://dayandnight-city-skyline.netlify.app/)
 and add you're preferencials.
 Contributions are welcome! Here's how you can contribute:
 
